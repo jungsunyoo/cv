@@ -96,6 +96,27 @@
       <!-- end Publications -->
       {% endif %}
       
+        {% if site.resume_section_conference %}
+      <!-- begin Conference -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Conference presentations</h2>
+        </header>
+
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            {% for conference in site.data.conference %}
+            <!--<li>{{ publication.description }}</li>  -->
+            <p>{{ conference.description }}</p>
+            {% endfor %}
+          </ul>
+        </div>
+
+      </section>
+      <!-- end Publications -->
+      {% endif %}
+      
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
       <section class="content-section">
