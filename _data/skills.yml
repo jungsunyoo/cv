@@ -1,12 +1,16 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
+- skill: Programming
+  description: "Proficient: Python, Matlab \n Intermediate: C, Javascript, R"
+  
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
+- skill: MRI operating license
+  description: Acquired at Free University of Berlin
+  
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: AI of Things (AIoT) Planning Expert lisence
+  description: "License Number: AIIA-003-010 \n Acquired on 2019"
+  
+# Digital content development and creation
+- skill: "Coursera certificate on Introduction to Neuroeconomics: How the Brain Makes Decisions"
+  description: Certificate earned at April 10, 2017
