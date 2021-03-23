@@ -3,19 +3,22 @@
 - degree: Ph.D. in Cognitive Sciences
   uni: University of California, Irvine
   year: 2020 &mdash; Present
-  award: Recipient of recruitment fellowship
+  awards: 
+  - award: Recipient of recruitment fellowship
   #summary: You can choose to have either a single or multiple awards
 
 - degree: M.Sc., Social, Cognitive, and Affective Neuroscience
   uni: Free University of Berlin
   year: 2015 &mdash; 2017
-  award: Reward modulates memory encoding for objects and scenes in the medial temporal lobe
+  awards: 
+  - award: Reward modulates memory encoding for objects and scenes in the medial temporal lobe
   #summary: You can choose to have either a single or multiple awards
 
 - degree: Bachelor of Arts, Psychology & Philosophy
   uni: Sungkyunkwan University
   year: 2010 &mdash; 2015
-  award: Ho-ron Moral Modularity: The Neo-Confucian Approach to Morality
+  awards: 
+  - award: The Neo-Confucian Approach to Morality
   #summary: If you had any meaningful roles at college, feel free to write about them here
 
 
