@@ -4,7 +4,7 @@
   uni: University of California, Irvine
   year: 2020 &mdash; Present
   awards: 
-  - award: "Pursuing Ph.D. in Cognitive Science with M.S. Cognitive Neuroscience"
+  #- award: "Pursuing Ph.D. in Cognitive Science with M.S. Cognitive Neuroscience"
   - award: "@ Computational Cognitive Neuroscience Lab (PI: <a href=http://aaron.bornstein.org>Prof. Aaron Bornstein</a>)"
   #summary: You can choose to have either a single or multiple awards
 
