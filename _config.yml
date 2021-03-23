@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Jungsun Yoo"
-resume_title:                   "Graduate student at UCI"
+resume_title:                   "About me"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "jungsun.yoo@uci.edu"
