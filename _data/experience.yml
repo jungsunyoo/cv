@@ -1,19 +1,23 @@
 # Jobs
-# VP of Global Communications
+# Current
 - company: University of California, Irvine
   position: Teaching assistant
   duration: Jan, 2021 &mdash; Present
   # summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
+# AMC
 - company: Asan Medical Center
   position: AI researcher
   duration:  Jan, 2020 &mdash; Aug, 2020
-  #summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  summary: Worked at <a href=https://www.chilab.kr/home>CHILab</a> with Prof. MD. Young-hak Kim and Dr. Tae Joon Jun
 
-
-# Communications Coordinator
+# Yonsei
 - company: Department of Psychology, Yonsei University
   position: Research scientist
   duration:   Nov, 2018  &mdash; Dec, 2019
-  #summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: Worked at <a href = https://abc.yonsei.ac.kr/>Applied Brain Cognition Laboratory</a> with Prof. Sanghoon Han
+  
+- company: Max Planck Institute for Human Development
+  position: Research assistant
+  duration:   Jan, 2017  &mdash; Oct, 2017
+  summary: Worked at <a href = http://bits-of-information.org/DDN/>Connected Minds Lab</a> with Prof. Wouter van den Bos
