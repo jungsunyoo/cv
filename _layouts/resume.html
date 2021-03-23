@@ -183,6 +183,24 @@
       {% endif %}
       
       
+      {% if site.resume_section_teaching %}
+      <!-- begin Teaching -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Teaching</h2>
+        </header>
+        {% for skill in site.data.teaching %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{ skill.skill }}</h4>
+          <p class="resume-item-copy">{{ skill.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Teaching -->
+      {% endif %}      
+      
       
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
