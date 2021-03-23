@@ -85,9 +85,9 @@
 
         <div class="resume-item">
           <ul class="resume-item-list">
-            {% for interest in site.data.publication %}
-            <li>{{ publication.description }}</li>
-            <!-- <p>{{ publication.description }}</p> -->
+            {% for publication in site.data.publication %}
+            <!--<li>{{ publication.description }}</li>  -->
+            <p>{{ publication.description }}</p>
             {% endfor %}
           </ul>
         </div>
