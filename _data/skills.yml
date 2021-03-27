@@ -1,7 +1,7 @@
 # Skills
 # Organizational leadership
 - skill: Programming
-  description: "<i>Proficient:</i> Python, Matlab <i>Intermediate:</i> C, Javascript, R"
+  description: "<i>Proficient:</i> Python, Matlab, <i>Intermediate:</i> C, Javascript, R"
   
 # Communications strategy
 - skill: MRI operation
@@ -12,7 +12,7 @@
   description: "License acquired in 2019 (license number: AIIA-003-010)"
   
 - skill: Language
-  description: "<i>Native:</i> Korean <i>Fluent:</i> English (iBT TOEFL score: 116)"
+  description: "<i>Native:</i> Korean, <i>Fluent:</i> English (iBT TOEFL score: 116)"
 # Digital content development and creation
 # - skill: Neuroeconomics#"Coursera certificate on Introduction to Neuroeconomics: How the Brain Makes Decisions"
 #   description: Certificate earned at April 10, 2017
