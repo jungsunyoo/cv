@@ -12,9 +12,9 @@
   uni: Free University of Berlin
   year: 2017
   awards: 
-  - award: "Thesis: Reward modulates memory encoding for objects and scenes in the medial temporal lobe"
-  - award: "@ <a href = http://www.heekerenlab.org/> Heekeren Lab </a> (PI: Prof. Hauke Heekeren)"
+  - award: "@ Heekeren Lab (PI: <a href=http://www.heekerenlab.org/>Prof. Hauke Heekeren</a>)"
   #summary: You can choose to have either a single or multiple awards
+  - award: "Thesis: Reward modulates memory encoding for objects and scenes in the medial temporal lobe"
 
 - degree: Bachelor of Arts, Psychology & Philosophy
   uni: Sungkyunkwan University
