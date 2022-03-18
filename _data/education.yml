@@ -5,14 +5,14 @@
   year: 2020 &mdash; Present
   awards: 
   #- award: "Pursuing Ph.D. in Cognitive Science with M.S. Cognitive Neuroscience"
-  - award: "@ Computational Cognitive Neuroscience Lab (PI: <a href=http://aaron.bornstein.org>Prof. Aaron Bornstein</a>)"
+  - award: "@ <a href=https://uciccnl.github.io/lab/>Computational Cognitive Neuroscience Lab</a> (PI: <a href=https://aaron.bornstein.org>Prof. Aaron Bornstein</a>)"
   #summary: You can choose to have either a single or multiple awards
 
 - degree: M.Sc., Social, Cognitive, and Affective Neuroscience
   uni: Free University of Berlin
   year: 2017
   awards: 
-  - award: "@ Heekeren Lab (PI: <a href=http://www.heekerenlab.org/>Prof. Hauke Heekeren</a>)"
+  - award: "@ Heekeren Lab (PI: <a href=https://www.heekerenlab.org/>Prof. Hauke Heekeren</a>)"
   #summary: You can choose to have either a single or multiple awards
   - award: "Thesis: Reward modulates memory encoding for objects and scenes in the medial temporal lobe"
 
