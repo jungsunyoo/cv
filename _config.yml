@@ -23,7 +23,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a graduate student at UC Irvine studying cognitive neuroscience. Here, I am investigating the algorithmic structure of reward-guided decision making and reinforcement learning (RL). I am generally interested in memory-guided decision-making and RL in both humans and artificial intelligence (AI).</p>"
+resume_header_intro: "<p>I am a graduate student at UC Irvine studying cognitive neuroscience. My primary interest lies in investigating how humans plan in the reinforcement learning (RL) framework and applying this to improve artificial agents' planning algorithms. I am also interested in how the representation of information in humans’ and AI’s memory could be a way of optimizing decision-making and learning.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
