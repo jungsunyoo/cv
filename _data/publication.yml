@@ -1,8 +1,9 @@
 # Publications
 - description: <b><u>Preprints</u></b>
-- description: "[6] <b>Yoo J</b>, Chrastil RE, Bornstein AM. Cognitive graphs: Representational substrates for planning. <i>In revision.</i> [<a href=https://psyarxiv.com/jpq8b/>paper</a>]"
+- description: "[7] <b>Yoo J</b>, Chrastil RE, Bornstein AM. Cognitive graphs: Representational substrates for planning. <i>In revision.</i> [<a href=https://psyarxiv.com/jpq8b/>paper</a>]"
 # 
 - description: <b><u>Peer-reviewed articles</u></b>
+- description: "[6] <b>Yoo J</b>, Zhou D, Bornstein AM (2024). Latent cause inference as an efficient and flexible learning rule for cognitive graphs. <i>Cognitive Computational Neuroscience.</i> [<a href=https://aaron.bornstein.org/cv/pubs/2024_yzb_ccn.pdf>paper</a>]"
 - description: "[5] Schultz H, <b>Yoo J</b>, Meshi D, Heekeren HR (2022). Category-specific memory encoding in the medial temporal lobe and beyond: The role of reward. <i>Learning and Memory 29 (10), 379-389</i>. [<a href=http://learnmem.cshlp.org/content/29/10/379.abstract>paper</a>]"
 - description: "[4] <b>Yoo J</b>, Bornstein AM (2022). Two-stage task with increased state space complexity to assess online planning. <i>Proceedings of the 5th Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM 2022).</i> [<a href=images/revised_JY_RLDM2022.pdf>paper</a>]"
 - description: "[3] <b>Yoo J</b>, Jun T, Kim Y (2021). xECGNet: Fine-tuning attention map within convolutional neural network to improve detection and explainability of concurrent cardiac arrhythmias. <i>Computer Methods and Programs in Biomedicine, 208</i>, 106281. [<a href=https://www.sciencedirect.com/science/article/abs/pii/S0169260721003552?via%3Dihub>paper</a>]<br>"
