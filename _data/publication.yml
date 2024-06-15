@@ -1,6 +1,7 @@
 # Publications
-# - description: <b><u>Preprints</u></b>
-# 
+- description: <b><u>Preprints</u></b>
+- description: "[7] <b>Yoo J</b>, Bornstein AM. Temporal dynamics of model-based control reveal arbitration between multiple task representations. [<a href=https://osf.io/preprints/psyarxiv/sgcy5>paper</a>]"
+
 - description: <b><u>Peer-reviewed articles</u></b>
 - description: "[7] <b>Yoo J</b>, Chrastil RE, Bornstein AM. Cognitive graphs: Representational substrates for planning (in press). <i>Decision.</i> [<a href=https://psyarxiv.com/jpq8b/>paper</a>]"
 - description: "[6] <b>Yoo J</b>, Zhou D, Bornstein AM (2024). Latent cause inference as an efficient and flexible learning rule for cognitive graphs. <i>Cognitive Computational Neuroscience.</i> [<a href=https://aaron.bornstein.org/cv/pubs/2024_yzb_ccn.pdf>paper</a>]"
