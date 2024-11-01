@@ -1,18 +1,19 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# Diary Moments
 - project: Telemann Viola Concerto in G major, II.Allegro
   role: Soloist (viola)
-  duration: 2024. 06
+  duration: 2024 &mdash; Present
   url: "https://www.youtube.com/watch?v=Q1wf5hc6aMU"
-  description: Diary Moments' 1st mini concert
+  # description: Diary Moments' 1st mini concert
 
-# Springfield Community Outreach Group
+# Ensemble Gajavi Season 1
 - project: Oblivion by Astor Piazzolla (arr. for 4 violas)
   role: 2nd viola
-  duration: 2021. 07
+  duration: 2020 &mdash; 2021
   url: "https://www.youtube.com/watch?v=puLFBhQz9Lo"
-  description: Team Gajavi
+  # description: Team Gajavi
 
 # jazznotes.io
 # - project: jazznotes.io
