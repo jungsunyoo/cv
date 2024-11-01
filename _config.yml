@@ -42,7 +42,7 @@ resume_section_honoraward:      true
 resume_section_experience:      true
 resume_section_patent:          true
 
-#resume_section_projects:        true
+resume_section_projects:        true
 resume_section_skills:          true
 resume_section_teaching:        true
 
