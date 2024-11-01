@@ -1,16 +1,29 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Telemann Viola Concerto in G major, II.Allegro
+  role: Soloist (viola)
+  duration: 2024. 06
+  url: "https://www.youtube.com/watch?v=Q1wf5hc6aMU"
+  description: Diary Moments' 1st mini concert
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Oblivion by Astor Piazzolla (arr. for 4 violas)
+  role: 2nd viola
+  duration: 2021. 07
+  url: "https://www.youtube.com/watch?v=puLFBhQz9Lo"
+  description: Team Gajavi
+
+# jazznotes.io
+# - project: jazznotes.io
+#   role: Founder & Primary Developer
+#   duration: 2012 &mdash; Present
+#   # url: "#"
+#   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+
+# # Springfield Community Outreach Group
+# - project: Springfield Community Outreach Group
+#   role: Co-Founder & Organizer
+#   duration: 2007 &mdash; Present
+#   # url: "#"
+#   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
